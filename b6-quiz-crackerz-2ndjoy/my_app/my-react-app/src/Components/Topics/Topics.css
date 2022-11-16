@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+    .card-container {
+        margin-left: 13vw;
+        gap: 10px;
+    }
+}
+
+.card-container {
+    gap: 10px;
+}
